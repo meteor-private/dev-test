@@ -20,7 +20,7 @@ You should use the following technologies to build this app:
 - [Mantine](https://mantine.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [React Router](https://reactrouter.com/)
-- [Grubba-RPC](https://github.com/Grubba27/meteor-rpc) with [React-Query](https://react-query.tanstack.com/)
+- [Grubba-RPC](https://github.com/Grubba27/meteor-rpc?tab=readme-ov-file#react-focused-api) with [React-Query](https://react-query.tanstack.com/)
 - [Meteor](https://www.meteor.com/)
 - [MongoDB](https://www.mongodb.com/)
 - [Zod](https://zod.dev/)
